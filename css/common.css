@@ -108,6 +108,7 @@ h2 span{
   justify-self: center;
   grid-column: span 2;
   font-size: xx-large;
+  padding: 0 0 20px 0;
 }
 
 .media-container a{
@@ -128,4 +129,5 @@ footer{
   padding: 20px 0;
 
 }
+
 
